@@ -6,6 +6,7 @@ Skkrypto 4기 개발 스터디
 2. 서버열기
 
 <routes 폴더>
+
 3. index page 열기
 4. wallet page 열기
 
